@@ -9,7 +9,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'OPTIONS') {
 }
 
 // Datos de Railway (los reemplazas con tus valores del PASO 2)
-$host     = "mysql.railway.internal";
+$host     = "switchyard.proxy.rlwy.net:24146";
 $port     = "3306";
 $dbname   = "railway";
 $username = "root";
